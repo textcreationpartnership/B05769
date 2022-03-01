@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A seasonable preparation for death and eternity, or, Funeral considerations, &amp;c. Being the substance of a discourse occasionally on the D. of G------, a noble peer, who received his mortal wound at the siege of Cork in Ireland. With a prayer suitable to the occasion.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05769</idno>
+            <idno type="STC">Wing S2238A</idno>
+            <idno type="STC">ESTC R183658</idno>
+            <idno type="EEBO-CITATION">53981747</idno>
+            <idno type="OCLC">ocm 53981747</idno>
+            <idno type="VID">180380</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05769)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180380)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2827:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A seasonable preparation for death and eternity, or, Funeral considerations, &amp;c. Being the substance of a discourse occasionally on the D. of G------, a noble peer, who received his mortal wound at the siege of Cork in Ireland. With a prayer suitable to the occasion.</title>
+               </titleStmt>
+               <extent>[4], 4-11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, J. Deacon, J. Blare, J. Back,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within heavy black mournign border; vignette: corpse in coffin.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms XXXIX, 5 --  Commentaries --  17th century.</term>
+               <term>Death --  Religious aspects --  Christianity --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180380:1" rendition="simple:additions"/>
+            <p>A ſeaſonable PREPARATION FOR <hi>Death and Eternity:</hi> OR, FUNERAL Conſiderations, <hi>&amp;c.</hi>
+            </p>
+            <p>Being the Subſtance of a DISCOURSE Occaſionally on the Death of The D. of
+<hi>G—</hi> a Noble Peer, Who received his mortal Wound at the Siege of <hi>CORK</hi> in <hi>IRELAND. With a PRAYER ſutable to the Occaſion.</hi>
+            </p>
+            <figure>
+               <figDesc>body in coffin</figDesc>
+            </figure>
+            <p>Licenſed according to Order.</p>
+            <p>Printed for <hi>P. Brooksby, J. Deacon, J. Blare, J. Back.</hi>
+            </p>
+            <pb facs="tcp:180380:2" rendition="simple:additions"/>
+            <pb facs="tcp:180380:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="expanded_title_page">
+            <pb facs="tcp:180380:3"/>
+            <pb facs="tcp:180380:3"/>
+            <head>A Seaſonable <hi>Preparation for Death and Eternity:</hi> OR, FUNERAL Conſiderations layed down,</head>
+            <p>In the Uncertainty of Man's Life; and the various Chances and Misfortunes that attend us in our Progreſs through this World to the Heavenly <hi>Jeru<g ref="char:EOLhyphen"/>ſalem;</hi> and what a neceſſity of an early Repentance is required, and the danger of the leaſt Delay in the Contemplation of <hi>Mortality</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nſecurity,</hi> &amp;c.</p>
+            <p>Being the Subſtance of a DISCOURSE Occaſionally on the Death of The D. of
+<hi>G—</hi> a noble Peer; who recei<g ref="char:EOLhyphen"/>ved his mortal Wound at the Siege of <hi>Cork</hi> in <hi>Ireland.</hi>
+            </p>
+            <p>With a Prayer ſutable to the Occaſion.</p>
+            <p>Printed for <hi>P. Brooksby, J. Deacon, J. Blare, J. Back.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="4" facs="tcp:180380:4"/>
+            <head>A Seaſonable Preparation for Death, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>Pſalm 39.5.</bibl>
+                  <p>
+                     <hi>Behold thou haſt made my days as a ſpan long, and my Age is as nothing before thee,</hi> &amp;c.</p>
+               </q>
+            </epigraph>
+            <p>IF we truly conſider the ſhort duration of Life; and the many Caſualties that attend it, we cannot but conclude that Riches, Honour and Proſperity are but frail things and all he Glories of Life are compared to the moſt ſading and tranſitory things, conſidering neither ſtrength, beauty, wiſedom, or power, can ſecure them from the various Chan<g ref="char:EOLhyphen"/>ces that attend Mortality. This occaſioned Authors to compare them to things that are exceeding momentary, things that may be ſaid to vaniſh almoſt as ſoon as they ap<g ref="char:EOLhyphen"/>pear: Some have compared the Life of Man to a Bubble, alluding therein, That the World is but a ſtorm, and Men, riſe up in their ſeveral Generations like a Bladder of Water<g ref="char:EOLhyphen"/>filled with Air, and ſome of theſe ſink into the Deluge of their firſt Parents, and are hidden in a ſheet of Water, ha<g ref="char:EOLhyphen"/>ving no other Buſineſs in the World, but to be born that they may be able to dye; others perhaps float up and down for a while, and ſuddenly diſappear, there being no certain<g ref="char:EOLhyphen"/>ty of a laſting Life, however Man may flatter himſelf; there<g ref="char:EOLhyphen"/>fore we ought always ſo to live as if we were on the brink of the Grave; for thoſe that live longeſt continue but in a reſtleſs motion; or, alluding to our firſt <hi>Simile</hi> of the frail<g ref="char:EOLhyphen"/>ty of a mortal State, thoſe that continue longeſt dancing on the Su<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>face of the Water, are at laſt: cruſhed with a drop from a Cloud into flatneſs; ſo Man coming into the World, if he ſpring up, and grow gay, to the Joy of many, he is notwithſtanding, expoſed to innumerable hazards and chan<g ref="char:EOLhyphen"/>ces,
+<pb n="5" facs="tcp:180380:4"/>and in the end turned into Duſt; for all earthly power and glory muſt ſet at length in the Grave, and no Man adds a moment to his Life beyond the Will of that God that gave it, in whoſe hands is all the Breath of Life, and in whoſe power it is to do whatſoever pleaſeth him; for altho' for a time the young Man may flouriſh like the flower of the Field, and ſhine, as it is termed, like a Doves neck, or the Image of the Rainbow, which borrows its glorious Colours from the Sun by Reflection, yet one thing or other frequent<g ref="char:EOLhyphen"/>ly interrupts his Felicity; for as we find it <hi>Pſalm</hi> 39. <hi>Man walketh in a vain ſhadow, and diſquieteth himſelf in vain; he heapeth up riches and cannot tell who ſhall gather them<g ref="char:cmbAbbrStroke">̄</g>:</hi> ſo that we cannot promiſe to our ſelves no certain aſſurance, Sick<g ref="char:EOLhyphen"/>neſs, Caſualty, War, and many other things, give us a Paſ<g ref="char:EOLhyphen"/>port to another World; but here lies the main ſtreſs, ſo to live that we need not at any time be afraid to dye; for he that lives unto Chriſt, for him to dye is gain: <hi>I am,</hi> ſays he, <hi>the Reſurrection and the Life; he that believeth in me, though he were dead, yet ſhall he live; and whoſoever liveth &amp; believeth in me he ſhall never dye,</hi> John 11, 25.26. this is the hidden Man<g ref="char:EOLhyphen"/>na and Water of Life, that nouriſhes us to Eternity, and puts us beyond the fear of Death, unſtinging, or diſarming even the King of Terrors, and renders us capable of out<g ref="char:EOLhyphen"/>facing him in his moſt affrighting ſhapes. <hi>I know</hi> (ſays holy <hi>Job</hi>) <hi>that my Redeemer liveth, and that he ſhall ſtand at the latter day upon the Earth; and though after my skin worms deſtroy this Body, yet in my Flesh shall J ſee God, whom I shall ſee for my ſelf, and mine Eyes shall behold and not anothers.</hi> Job 19, 25, 26, 27. here is the glorious Hope of a Chriſtian, whereby he triumphs in his Death, and puts him beyond all poſſibility of fear, notwithſtanding the brittle Foundation of a mortal Life, which <hi>Homer</hi> calls a Leaf, the ſmalleſt and weakeſt part of a ſhort-liv'd and unſteady Plant; and <hi>Pindar</hi> terms it the Dream of a ſhadow; another the Dream of the ſhadow of Smoke; but St. <hi>James,</hi> who ſpoke by a more excellent Spi<g ref="char:EOLhyphen"/>rit, ſays, our <hi>Life is but a Vapour,</hi> and that is a thin Matter drawn from the Earth by a Coeleſtial Influence, made of Smoke, or the lighter parts of Water, toſſed by every Wind
+<pb n="6" facs="tcp:180380:5"/>and moved by the motion of a ſuperiour Body, without pow<g ref="char:EOLhyphen"/>er in it ſelf, lifted up on high, or left below; a mere <hi>Phaeno<g ref="char:EOLhyphen"/>mena,</hi> like the ſhadow that departeth, or the T<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le that is told; or like the Dream when one awaketh: what then ſhould move us to hope the laying up a Security upon Earth, ſince here we are but Pilgrims and Strangers, and have no tarrying City, but ought to look for one not made with hands, in the higheſt Heavens. It was uſual amongſt the wiſe Men of paſt Ages to order their being put in mind of Mortality, even in the midſt of their moſt joyfull Entertain<g ref="char:EOLhyphen"/>ments; as having the Skulls and Skeletons of Men preſented at their Feaſts; and at the Coronation of the Emperours of <hi>Conſtantinople,</hi> a Maſon preſented them with a Model of their Tombs, to let them know in the midſt of their Glory and Grandeur they were but mortal Men: <hi>We brought</hi> (ſays <hi>Job</hi>) <hi>nothing into the World, and it is certain we can carry nothing out. The Lord giveth, and the Lord taketh away; bleſſed be the Name of the Lord:</hi> this is our only Reliance in Life and Death, God is ſure and certain to thoſe truſt in him; it we dye in our Beds, or in the Field, whether our Graves be made in our Mother Earth, from whence we were originally taken, or in the watry Womb of the Sea, whether we are laid up in the Repoſitories of the Dead, amongſt Peaſants, all is one in the Morning of the Reſurrection, all is one, if we have a ſure Intereſt in Chriſt, who is the Reſurrection, and the Life of thoſe that in Faith rely on him: <hi>For now</hi> (ſays St.<hi>Paul</hi>) <hi>is Chriſt riſen from the dead, and become the firſt Fruits of them that ſlept;</hi> as we find it in the 15th. of the 1 Epiſtle to the <hi>Corin<g ref="char:EOLhyphen"/>thians: For as in</hi> Adam (continues he) <hi>all dyed, ſo in Chriſt shall all be made alive;</hi> but every Man in his own Order, Chriſt the firſt Fruits; afterward they that are Chriſt's at his com<g ref="char:EOLhyphen"/>ing.</p>
+            <p>Since then our Lives are ſo uncertain, how precious then ought our time to be, and what a value ſhould we ſet upon it, ſeeing it is given us to barter with Heaven for Eternal Life and Glory, and that the leaſt moment, when relapſed, cannot be recalled, but winds off the Thread of Life, con<g ref="char:EOLhyphen"/>tinually digging our Graves; every Revolution which the Sun makes about the World, divides between Life and Death,
+<pb n="7" facs="tcp:180380:5"/>and Death poſſeſſes both the Portions by the next Morrow, and we are dead to all thoſe Moments which we have already lived, and we ſhall never live them over again, and ſtill God makes little periods of our Age: Firſt we change one World, when we come from the Womb to feel the warmth of the Sun, then we ſleep, and enter into the Image of Death, in which State we are unconcerned, and ſo wear away till we drop into the Grave, which is ſure to claim its right, as well of the Mighty as the Feeble; the Great and Noble alike lye down in the Duſt; Kings and their Progeny are here levelled, and it is only their good Actions and Fame can ſurvive them, and bloſſom like the Rod of <hi>Aron,</hi> after they are withered and crumbled into Atoms.</p>
+            <p>
+               <hi>When thou</hi> (ſays the Pſalmiſt) <hi>doſt chaſten Man for his Sin, thou makeſt his Beauty to conſume away, like as it were a Moth fretting a Garment:</hi> Thus we ſee, and may ſeriouſly conſider the frailty, of Life, which may ſerve to put us in mind, that Noble and Illuſtrious Perſons, though ſprung from Kings, having Royal Blond ſtreaming in their Veins are ſubject to the ſtroke of Fate; though undoubtedly none fall without the Divine permiſſion. <hi>So teach us then, O Lord, to number our days, that we may apply our Hearts unto Wiſdom.</hi>
+            </p>
+            <p>When <hi>Alexander</hi> by his Courage and Succeſs had over-run in Conqueſt a great part of the World, no force or power of conquering Armies were able to Shield him from the ſtroke of Death. <hi>Seeing Man cometh up and is cut down like a flower; he fleeth as it were a ſhadow, and never continueth; as it were in one ſtay; in the midſt of life we are in Death: Of whom may we ſeek for ſuccour, but of thee, O Lord, who for our Sins art juſt<g ref="char:EOLhyphen"/>ly diſpleaſed.</hi>
+            </p>
+            <p>It is in the Lord above that we ought to have confidence, in this caſe; for he it is that ſhall raiſe us up at the laſt day, and ſhall preſerve our Souls alive; the glorious Captain of our Salvation has already overcome Death and the power of the Grave; and although that be the laſt Enemy, he ſhall utter<g ref="char:EOLhyphen"/>ly deſtroy, yet has he already taken away his Sting, ſo that he cannot be terrible to thoſe that are in Chriſt; for his Of<g ref="char:EOLhyphen"/>fice to them is friendly, only to ſet the Soul at Liberty by un<g ref="char:EOLhyphen"/>loc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing the Door of the Body; <hi>for this corruptible muſt put on
+<pb n="6" facs="tcp:180380:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:180380:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="8" facs="tcp:180380:7"/>incorruption; and this mortal muſt put on immortality;</hi> and then ſhall be brought to paſs the Saying that is written, <hi>Death is ſwallowed up in Victory: O Death! where is thy Sting? O Grave! where is thy Victory? the ſting of Death is ſin, and the ſtrength of ſin is the Law; but thanks be to God who giveth us the Victory, through our Lord Jeſus Chriſt: therefore my beloved Brethren be ye ſteadfaſt, unmoveable, always abounding in the Work of the Lord; foraſmuch as you know your Labour is not vain in the Lord.</hi>
+            </p>
+            <p>
+               <hi>However, let us watch and pray, leaſt we enter into Temptation;</hi> let us ſo run the Race that is ſet before us, that we may win the Crown of Life and Glory, and not loiter away our time, pretending with the Sluggard, <hi>that there is a Lion in the way;</hi> nor ſleep ſecure like the fooliſh Virgins, without being pre<g ref="char:EOLhyphen"/>pared with Oil in our Lamps, till the Cry of the coming of the Bridegroom be heard; let us rather conſider we ſhould be diligent and watchfull, and that every Meal we eat is no leſt than a Reſcue from Death, and lays up for another, and whilſt we think a Thought Time paſſes away, and the Clock ſtrikes, and reckons on our Portion, and ſhows us that our Life is but Vanity, and that we are poſting, and ſo much nearer to Eternity; we form our Words with the Breath of our Noſtrils, and we have the leſs to live upon, for every Word we ſpeak.</p>
+            <p>Thus Nature calls us to meditate on Death by thoſe things that are inſtrumental of acting it; and God, by the variety of his Providence, makes us ſee Death every where, in all variety of, Circumſtances, dreſſed up for all the Fancies and the Expectations of every ſingle Perſon. Nature hath given us one Harveſt every year, but Death, hath two, old and young, ripe and unripe, fall by his impartial Hand; it meets us every where, and is procured by every Inſtrument, and all Chances; entring in at many Doors by violence or ſecret influence; in the Bed of Honour, or in an eaſie Bed of Down, and this ought to be before Eyes; <hi>For</hi> (as a Father ſays) <hi>if we ſeriouſly meditate on our Deaths, and the day of Judgment, we ſhould never do amiſs;</hi> for then it would keep an A we and Re<g ref="char:EOLhyphen"/>verence, upon our Minds to live as we expected to dye, and appear before the Tribunal of the tremendious God of all the Earth: <hi>Caſt thy Burthen upon the Lord,</hi> (ſays the Pſalmiſt)
+<pb n="9" facs="tcp:180380:7"/>
+               <hi>and he ſhall ſuſtain thee; he ſhall never ſuffer the Righteous to be moved; there is no refuge from Death and the Grave; then all the ſhelter we can propoſe is to fly to God, who is Lord of Life and Death, appealing from his Juſtice to his Mercy, and humbling our ſelves at his Foot-ſtool and ſay, [Thou knoweſt, Lord, the ſecrets of our hearts, ſhut not thy mercifull Ears unto our Prayers; let us not be overcome with the fear of Death, nor ſlight its terrors even in the day of Proſperity; leaſt we deceive our own Souls; for if we put far away the evil day, it may ſuddenly overtake us un<g ref="char:EOLhyphen"/>prepared:] Nor is it all times in our power to repent; God's Spirit will not always ſtrive with Man, and if he with<g ref="char:EOLhyphen"/>draw his Grace, we are of all Creatures the moſt miſerable; and <hi>therefore whilſt it is to day let us hear his Voice,</hi> ſummoning us to our latter end; and though we are ſtrong, and in Health, living at eaſe, or encompaſſed with Friends, yet we are un<g ref="char:EOLhyphen"/>certain how long we have to live, and indeed the longeſt Life is too ſhort for a ſincere and worthy Repentance to Eternal Life: for though we be never ſo watchful over our ſelves, ſome Temptations will prevail; ſome Sins more than we able to reſiſt will be chaſing with us; our Bones are full of the Sins of our Youth, and they will, as the Scripture ſays, <hi>lye down with us in the Duſt:</hi> The Glory and Beauty of Man may be in this Life compared to a Roſe for its duration; for ſo we ſee that fragrant Flower ſpringing from the Clefts of its Bud, and at firſt it was fair as the Morning, and filled with the Dew of Heaven, as a Lambs Fleece; but when a ruder Breath has forced open its Virgin Modeſty, and diſmantled its too youthfull and unripe Retirements, it becomes ſullied, and begins to put on Darkneſs, and to decline to ſoftneſs, and the Symptoms of a ſickly Age, and then ſheds its Leaves, and fades away: even ſo is the State of Life, which is attended by innumerable Caſualties; as we ſee the brave and valiant, that, if it was poſſible, would out-face the King of Terrors and trample upon his gloomy Dominion, are nevertheleſs ſub<g ref="char:EOLhyphen"/>ject to his ſtroke; he ſends a Bullet in War with a Commiſſion to ſummons the moſt undaunted Spirit to yield himſelf a Cap<g ref="char:EOLhyphen"/>tive to the Grave, and this fatally executes it Errand, and will have no denial; ſnatching as ſoon the Darling of a King<g ref="char:EOLhyphen"/>dom,
+<pb n="10" facs="tcp:180380:8"/>as the meaneſt Slave; or perhaps a thruſt with a Sword, or a Pike, may effect as much; Death has inumerable ways to ſeize our Breath; on him a thouſand Diſeaſes wait, like ſo many destroying Angels, to prey upon our Lives, and hurry us into the ſilent Duſt, and ſo to Eternity, never to return more to our Houſes, Poſſeſſions, or Relations, in an Eſtate of enjoying temporal things; for neither Youths Riches, or Beauty will profit in the Grave: Kings, and the Sons of Kings muſt mingle in the Regions of Death; as we ſee frequent In<g ref="char:EOLhyphen"/>ſtances abroad and at home; no power, nor might, nor riches, or honour, can prevent it; for though they are termed Gods on Earth, yet nothing can hinder, but they muſt at one time or other, when the great and wiſe diſpoſer of all things thinks fit, dye like Men, and then it is the Voice that Saint <hi>John</hi> heard can bring them comfort: <hi>I heard</hi> (ſays he) <hi>a Voice from Heaven, ſaying unto me, write, from henceforth bleſſed are the dead which dye in the Lord; even ſo ſaith the Spirit, for they reſt from their Labour,</hi> Rev. 14, 13. This is a bleſſed Change to leave a troubleſome World for a place of tranſcendent Joy and Felicity, where flow the Rivers of Life, and an eternal Spring of Bleſſedneſs remains; where Crowns of Life and Glory are to be had; incorruptible Crowns that cannot fade nor have end, the thoughts of which ſhould be enough to raiſe our Spirits with a longing deſire after Chriſt and his Kingdom; and with St. <hi>Paul,</hi> to dye daily to Sin, that we may live unto Righteouſneſs; that ſo without fear we may look Death ſteadfaſtly in the Face, and deſire to be diſſolved, that our Souls, with holy <hi>David,</hi> may pant and thirſt after God, as the Hart panteth after the Water-brook. This is the only way to conquer Death that conquers all; ſo that al<g ref="char:EOLhyphen"/>though ſorrow ſhould happen for a Night, joy will aſſuredly come in the morning; here indeed we are in a Vale of Tears, but there we ſhall be in a Paradice of everlaſting Pleaſure and think Death friendly id ſetting us free; when we ſhall find, as the wife Man ſays, <hi>A good name is better than precious Ointment;</hi> and the day of Death than the day of ones Birth; it is betters to go to the Houſe of Mourning than to go to the Houſe of Feaſting; for that is the end of all Men, and the Living will lay it to his Heart, <hi>Eccleſ.</hi> 7.12. ſo that we ſee,
+<pb n="11" facs="tcp:180380:8"/>O let us conſider theſe things, and work whilſt it is day, for the night cometh wherein no Man worketh;</hi> that is the night of the Grave and Darkneſs, from whence we can only expect a bright Morning of the Reſurrection, that will make us amends for all the various Misfortunes of this Life, even when the Trumpet ſhall ſound, and the dead ſhall be raiſed incorrupti<g ref="char:EOLhyphen"/>ble, and we ſhall be changed; <hi>for this corruptible muſt put on incorruptible; and this mortality muſt put on immortality;</hi> ſo when this corroptible ſhall have put on incorruption, and this mortality ſhall have put on immortality, then (and not till then) ſhall be brought to paſs the Saying, <hi>Death is ſwal<g ref="char:EOLhyphen"/>lowed up in Victory: O Death! where is thy Sting? O Grave! where is thy Victory:</hi> The which that we may all find, and ſo be happy, we implore for the fake of him that has overcome Death, and triumphed victoriouſly, even our Lord Jeſus Chriſt, who is become the firſt Fruits of thoſe that are riſen, and has given us a ſure Earneſt of the Reſurrection to Life everla<g ref="char:EOLhyphen"/>ſting, <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <pb n="12" facs="tcp:180380:9"/>
+            <head>A Prayer ſutable to the Occaſion.</head>
+            <p>
+               <hi>O</hi> Moſt Gloruios Lord God, in whom alone is the power of Life and Death, on whom our be<g ref="char:EOLhyphen"/>ing and well-being depends; teach us ſo to number our days, that we may apply our Hearts to Wiſdom; we confeſs, O Lord, moſt mercifull Father of Spi<g ref="char:EOLhyphen"/>rits, that by reaſon of our many Sins we are unwor<g ref="char:EOLhyphen"/>thy ſo much as to lift up our Eyes unto thee, but thou haſt commanded us to humble our ſelves before thee, that thy Wrath and Indignation may not ſit heavy upon us; for when thou art angry, all our days are gone, we bring our years to an end, as it were a Tale that is told: Keep us, O Lord we be<g ref="char:EOLhyphen"/>ſeech thee in the way of Uprightneſs and ſave us from ſudden Death, that through fear or ſurprize our Faith may not fail; but that we may have a ſteadfaſt reliance en thy Mercy at all times in Peace and War, through Jeſus Chriſt our bleſſed Lord and Salviour, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:180380:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
